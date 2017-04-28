@@ -1,0 +1,2 @@
+# IdeasInstant
+collect ideas
